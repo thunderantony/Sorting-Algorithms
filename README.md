@@ -23,6 +23,7 @@ i)	#Selection Sort
 ![Screenshot 2024-04-16 131500](https://github.com/thunderantony/Sorting-Algorithms/assets/149364638/3e50ac9a-a48c-4c4d-a2e1-62056fe5d33c)
 
 ii)	#Insertion Sort
+
 ![Screenshot 2024-04-16 131516](https://github.com/thunderantony/Sorting-Algorithms/assets/149364638/e8b71a81-ca4d-4d1a-9b82-baca2c22ce67)
 
 
